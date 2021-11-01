@@ -1,4 +1,4 @@
-# Jenkins Shared Library Test
+# Jenkins Shared Library
 
 
 This repo demonstrate the minimal example for Jenkins Shared Library.
