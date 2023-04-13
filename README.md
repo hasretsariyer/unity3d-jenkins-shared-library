@@ -10,7 +10,7 @@ Jenkins -> Manage Jenkins -> Configure System -> Search: Global Pipeline Librari
 Fill in git parameters.
 Check "Load Implicitly" or declare @Library("${LibraryName}") at begin of your Jenkinsfile. 
 
-## Update your repo**
+## Update your repo
 
 Put `exportOptions.plist` and `updateExportOptions.rb` to root directory in your repository. These files are rquired by archive step.
 
